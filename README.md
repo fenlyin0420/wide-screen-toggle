@@ -8,6 +8,16 @@ An Obsidian plugin that toggles wide screen mode, expanding the content area to 
 - Persist toggle state across sessions
 - Works in both editing and reading views
 
+## Screenshots
+
+**Normal mode:**
+
+![Normal mode](images/not-wide.png)
+
+**Wide screen mode:**
+
+![Wide screen mode](images/wide-screen.png)
+
 ## Installation
 
 ### From GitHub Release
