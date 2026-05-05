@@ -5,5 +5,6 @@
 	"minAppVersion": "0.15.0",
 	"description": "Toggle wide screen mode for content area, expanding it to full width.",
 	"author": "Fenlyin",
+	"repositoryUrl": "https://github.com/fenlyin0420/wide-screen-toggle",
 	"isDesktopOnly": false
 }
