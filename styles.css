@@ -1,0 +1,13 @@
+body.wide-screen-mode {
+	--file-line-width: 100% !important;
+	--line-width: 100% !important;
+}
+
+body.wide-screen-mode .markdown-source-view,
+body.wide-screen-mode .markdown-preview-view {
+	max-width: 100% !important;
+	margin-left: 10px !important;
+	margin-right: 10px !important;
+	padding-left: 10px !important;
+	padding-right: 10px !important;
+}

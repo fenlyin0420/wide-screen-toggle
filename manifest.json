@@ -1,0 +1,9 @@
+{
+	"id": "wide-screen-toggle",
+	"name": "Wide Screen Toggle",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Toggle wide screen mode for content area, expanding it to full width.",
+	"author": "Fenlyin",
+	"isDesktopOnly": false
+}
